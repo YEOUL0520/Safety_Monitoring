@@ -1,4 +1,4 @@
-# Crime_Prediction
+# Safety_Monitoring
 흉기 난동에 사용되는 대표적인 흉기인 칼을 감지하는 CCTV 모니터링 프로그램 
 <br>
 <br>
